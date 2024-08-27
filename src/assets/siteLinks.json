@@ -10,7 +10,7 @@
     "link": "https://ailst.zard.hk/"
   },
   {
-    "icon": "IosTv",
+    "icon": "Tv",
     "name": "电影",
     "link": "https://tv.zard.hk/"
   },
@@ -20,18 +20,13 @@
     "link": "https://bot.zard.hk"
   },
   {
-    "icon": "BuildingShop16Regular",
+    "icon": "ShoppingCart",
     "name": "晨曦杂货铺",
     "link": "https://ntr.hk/"
   },
   {
-    "icon": "PayCircleFilled",
+    "icon": "Alipay",
     "name": "码支付",
     "link": "https://pay.zard.hk/"
-  },
-  {
-    "icon": "Home",
-    "name": "Home",
-    "link": "https://zard.hk/"
   }
 ]
